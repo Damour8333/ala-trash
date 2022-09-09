@@ -21,3 +21,17 @@ const obj = {
 const obj = {
   lukeSkywalker,
 };
+
+https://en.wikipedia.org/wiki/Ryan_Dahl
+https://fr.wikipedia.org/wiki/Node.js
+https://www.codecademy.com/resources/blog/what-is-front-end/
+https://nestjs.com/
+
+
+echo "# ala-trash" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Damour8333/ala-trash.git
+git push -u origin main
